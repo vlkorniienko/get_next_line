@@ -5,4 +5,4 @@ The goal of the project is to write a function that returns a line read from a f
 "Line" - is a succession of characters that end with ’\n’ (ascii code
 0x0a) or with End Of File (EOF).
 
-You are allowed to use your own library in this project and also read, malloc and free functions
+You are allowed to use your own library in this project and also #### read, malloc and free functions
